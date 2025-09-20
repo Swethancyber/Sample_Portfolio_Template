@@ -1,6 +1,6 @@
 # 📝 Simple Portfolio
 
-### This Is Used To Create a Protfolio For a Beginner 
+### This Is Used To Custimea Protfolio For a Beginner 
 
 🖼️ Preview 
 
