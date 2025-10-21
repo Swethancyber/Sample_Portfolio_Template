@@ -2,7 +2,7 @@
 
 ### This Is Used To Custimea Protfolio For a Beginner 
 
-🖼️ Preview 
+🖼️ Preview
 ```
 https://swethancyber.github.io/
 ```
